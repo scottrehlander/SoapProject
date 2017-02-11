@@ -1,0 +1,10 @@
+C:\softdev\school\Presentation\PresentationDemo\PresentationDemo\bin\PresentationDemo.dll
+C:\softdev\school\Presentation\PresentationDemo\PresentationDemo\bin\PresentationDemo.pdb
+C:\softdev\school\Presentation\PresentationDemo\PresentationDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\softdev\school\Presentation\PresentationDemo\PresentationDemo\obj\Debug\PresentationDemo.dll
+C:\softdev\school\Presentation\PresentationDemo\PresentationDemo\obj\Debug\PresentationDemo.pdb
+C:\inetpub\wwwroot\PresentationDemo\PresentationDemo\PresentationDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\PresentationDemo\PresentationDemo\PresentationDemo\obj\Debug\PresentationDemo.dll
+C:\inetpub\wwwroot\PresentationDemo\PresentationDemo\PresentationDemo\bin\PresentationDemo.dll
+C:\inetpub\wwwroot\PresentationDemo\PresentationDemo\PresentationDemo\bin\PresentationDemo.pdb
+C:\inetpub\wwwroot\PresentationDemo\PresentationDemo\PresentationDemo\obj\Debug\PresentationDemo.pdb
